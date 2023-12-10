@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcc\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\shipping\\gltfruntime\\definitions.gltfruntime.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfanimbonecompressioncodec.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animbonecompressioncodec.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animencoding.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animsequencedecompressioncontext.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animationcompression.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\floatpacker.h",
+            "c:\\ue\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animbonecompressioncodec.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

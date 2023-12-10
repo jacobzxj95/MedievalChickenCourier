@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\uht\\gltfanimcurvecompressioncodec.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcc\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\shipping\\gltfruntime\\definitions.gltfruntime.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfanimcurvecompressioncodec.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animcurvecompressioncodec.h",
+            "c:\\ue\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animcurvecompressioncodec.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealgame\\inc\\gltfruntime\\uht\\gltfanimcurvecompressioncodec.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
