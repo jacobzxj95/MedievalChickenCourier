@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\readyplayermeeditorsettings.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\public\\readyplayermeeditorsettings.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\uht\\readyplayermeeditorsettings.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticssetup.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticseventlogger.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\public\\readyplayermeeditortypes.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayermeeditor\\uht\\readyplayermeeditortypes.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

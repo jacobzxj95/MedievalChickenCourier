@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\request\\readyplayermebaserequest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\request\\readyplayermebaserequest.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermesettings.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermesettings.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\request\\readyplayermerequestcreator.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeplugininfo.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\interfaces\\ipluginmanager.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\plugindescriptor.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\custombuildsteps.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\localizationdescriptor.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\moduledescriptor.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\pluginreferencedescriptor.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\projects\\public\\versescope.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

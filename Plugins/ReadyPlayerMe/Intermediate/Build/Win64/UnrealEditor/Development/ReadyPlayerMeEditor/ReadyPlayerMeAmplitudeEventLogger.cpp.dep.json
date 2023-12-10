@@ -1,0 +1,28 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayermeeditor\\definitions.readyplayermeeditor.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeamplitudeeventlogger.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayermeeditor\\private\\analytics\\readyplayermeanalyticsdata.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\request\\readyplayermerequestcreator.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsonwriter.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsonserializer.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\dom\\jsonobject.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\jsonglobals.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsonreader.h",
+            "c:\\ue\\ue_5.1\\engine\\source\\runtime\\json\\public\\policies\\condensedjsonprintpolicy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

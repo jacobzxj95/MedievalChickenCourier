@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\readyplayermefunctionlibrary.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcc\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\shipping\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermefunctionlibrary.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\readyplayerme\\uht\\readyplayermefunctionlibrary.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeurlconvertor.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
