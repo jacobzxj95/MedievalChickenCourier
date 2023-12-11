@@ -1,6 +1,6 @@
 
 
-Requires rebuild on initial download
+Requires rebuild on initial download. Double-click MCC.uproject.
 
 Press yes when "Build detected for different version" window appears.
 
