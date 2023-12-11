@@ -17,14 +17,14 @@ struct FAvatarMetadata;
 #endif
 #define READYPLAYERME_ReadyPlayerMeTypes_generated_h
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_25_GENERATED_BODY \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_25_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FAvatarMetadata_Statics; \
 	READYPLAYERME_API static class UScriptStruct* StaticStruct();
 
 
 template<> READYPLAYERME_API UScriptStruct* StaticStruct<struct FAvatarMetadata>();
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_137_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_137_DELEGATE \
 struct _Script_ReadyPlayerMe_eventAvatarDownloadCompleted_Parms \
 { \
 	USkeletalMesh* Mesh; \
@@ -39,14 +39,14 @@ static inline void FAvatarDownloadCompleted_DelegateWrapper(const FScriptDelegat
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_139_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_139_DELEGATE \
 static inline void FAvatarLoadCompleted_DelegateWrapper(const FScriptDelegate& AvatarLoadCompleted) \
 { \
 	AvatarLoadCompleted.ProcessDelegate<UObject>(NULL); \
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_141_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_141_DELEGATE \
 struct _Script_ReadyPlayerMe_eventAvatarLoadFailed_Parms \
 { \
 	FString ErrorMessage; \
@@ -59,7 +59,7 @@ static inline void FAvatarLoadFailed_DelegateWrapper(const FScriptDelegate& Avat
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_143_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_143_DELEGATE \
 struct _Script_ReadyPlayerMe_eventDownloadImageCompleted_Parms \
 { \
 	UTexture2D* Texture; \
@@ -72,7 +72,7 @@ static inline void FDownloadImageCompleted_DelegateWrapper(const FScriptDelegate
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_145_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_145_DELEGATE \
 struct _Script_ReadyPlayerMe_eventDownloadImageFailed_Parms \
 { \
 	FString ErrorMessage; \
@@ -85,7 +85,7 @@ static inline void FDownloadImageFailed_DelegateWrapper(const FScriptDelegate& D
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_147_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_147_DELEGATE \
 struct _Script_ReadyPlayerMe_eventGlbLoadCompleted_Parms \
 { \
 	USkeletalMesh* SkeletalMesh; \
@@ -98,7 +98,7 @@ static inline void FGlbLoadCompleted_DelegateWrapper(const FScriptDelegate& GlbL
 }
 
 
-#define FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_149_DELEGATE \
+#define FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h_149_DELEGATE \
 struct _Script_ReadyPlayerMe_eventAvatarPreloadCompleted_Parms \
 { \
 	bool bSuccess; \
@@ -112,7 +112,7 @@ static inline void FAvatarPreloadCompleted_DelegateWrapper(const FScriptDelegate
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_CapstoneDesigner_GDNBS_Project_08_S0_TeamMetallic_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h
+#define CURRENT_FILE_ID FID_MedievalChickenCourier_Plugins_ReadyPlayerMe_Source_ReadyPlayerMe_Public_ReadyPlayerMeTypes_h
 
 
 #define FOREACH_ENUM_EAVATARGENDER(op) \

@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.gen.cpp",
+        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h"
+            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
+            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
