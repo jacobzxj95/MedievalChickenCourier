@@ -68,6 +68,7 @@
 /DBUILD_VERSION=++UE5+Release-5.1-CL-23901901
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
+/DPROJECT_PRODUCT_NAME=MCC
 /DPROJECT_PRODUCT_IDENTIFIER=MCC
-/fo "C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\Default.rc2.res"
+/fo "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Intermediate\Build\Win64\UnrealEditor\Development\ReadyPlayerMe\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"
