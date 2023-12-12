@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfruntimeskeletalmeshcomponent.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfruntimeskeletalmeshcomponent.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeskeletalmeshcomponent.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeskeletalmeshcomponent.generated.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeskeletalmeshcomponent.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeskeletalmeshcomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

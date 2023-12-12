@@ -1,15 +1,15 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermecomponent.gen.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermecomponent.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermecomponent.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeparser.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermecomponent.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeparser.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texture2darray.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\texture2darray.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\texturecube.h",
@@ -36,15 +36,15 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponentbase.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponentbase.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponent.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshlodimporterdata.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\serialization\\arrayreader.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\streaming\\texturemipdataprovider.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeparser.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermecomponent.generated.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeparser.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermecomponent.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

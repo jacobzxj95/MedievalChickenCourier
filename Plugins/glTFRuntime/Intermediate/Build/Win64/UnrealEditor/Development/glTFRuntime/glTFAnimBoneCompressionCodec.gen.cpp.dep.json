@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.gen.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfanimbonecompressioncodec.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfanimbonecompressioncodec.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animbonecompressioncodec.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animencoding.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animation\\animsequencedecompressioncontext.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animationcompression.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\floatpacker.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animbonecompressioncodec.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.generated.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfanimbonecompressioncodec.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
