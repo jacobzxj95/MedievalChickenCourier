@@ -70,5 +70,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME=MCC
 /DPROJECT_PRODUCT_IDENTIFIER=MCC
-/fo "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\Default.rc2.res"
+/fo "C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

@@ -1,14 +1,14 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\storage\\readyplayermeavatarstorage.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\hal\\filemanagergeneric.h"
         ],
         "ImportedModules": [],
