@@ -1,14 +1,14 @@
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeAvatarLoader.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeComponent.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeActor.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeSettings.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeFunctionLibrary.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeTypes.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeGlbLoader.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeCustomMorphGroup.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeAvatarConfig.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeRenderLoader.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeStandardMorphGroup.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeMorphTargetGroup.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeGameSubsystem.h
-D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeMemoryCache.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeActor.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeComponent.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeFunctionLibrary.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeGameSubsystem.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeAvatarLoader.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeGlbLoader.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeRenderLoader.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeMemoryCache.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeTypes.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\ReadyPlayerMeSettings.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeCustomMorphGroup.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeAvatarConfig.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeMorphTargetGroup.h
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\ReadyPlayerMe\Source\ReadyPlayerMe\Public\AvatarConfig\ReadyPlayerMeStandardMorphGroup.h

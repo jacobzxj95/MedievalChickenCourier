@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntime.init.gen.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntime.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

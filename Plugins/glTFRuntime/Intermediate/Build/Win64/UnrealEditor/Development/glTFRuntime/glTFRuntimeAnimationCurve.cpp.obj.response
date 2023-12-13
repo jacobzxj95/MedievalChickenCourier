@@ -1,6 +1,6 @@
-"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAnimationCurve.cpp"
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAnimationCurve.cpp
 /I .
-/I "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private"
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -271,9 +271,9 @@
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
 /I Developer\SkeletalMeshUtilitiesCommon\Public
-/I "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Inc\glTFRuntime\UHT"
-/I "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source"
-/I "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Public"
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Inc\glTFRuntime\UHT
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UnrealEditor\Inc\ProceduralMeshComponent\UHT
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
@@ -286,12 +286,12 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\Definitions.glTFRuntime.h"
-/Yu"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.cpp.obj"
-/sourceDependencies "D:\Class Work\Medieval Chicken Courier\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.cpp.dep.json"
+/FI"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\Definitions.glTFRuntime.h"
+/Yu"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCCEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.cpp.obj"
+/sourceDependencies C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealEditor\Development\glTFRuntime\glTFRuntimeAnimationCurve.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

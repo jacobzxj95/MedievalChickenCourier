@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermegamesubsystem.gen.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermegamesubsystem.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermegamesubsystem.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermegamesubsystem.generated.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\development\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermegamesubsystem.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealeditor\\inc\\readyplayerme\\uht\\readyplayermegamesubsystem.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

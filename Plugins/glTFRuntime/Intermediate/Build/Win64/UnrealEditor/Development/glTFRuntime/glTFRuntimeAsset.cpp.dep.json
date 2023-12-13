@@ -1,19 +1,19 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfruntimeasset.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\private\\gltfruntimeasset.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcceditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeasset.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\development\\gltfruntime\\definitions.gltfruntime.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeasset.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\misc\\optionalfwd.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeparser.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeparser.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\async\\async.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\dom\\jsonvalue.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\json\\public\\serialization\\jsontypes.h",
@@ -73,8 +73,8 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\components\\lightcomponentbase.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponentbase.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\lightcomponent.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\source\\gltfruntime\\public\\gltfruntimeanimationcurve.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeanimationcurve.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\proceduralmeshcomponent\\source\\proceduralmeshcomponent\\public\\proceduralmeshcomponent.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\plugins\\runtime\\proceduralmeshcomponent\\intermediate\\build\\win64\\unrealeditor\\inc\\proceduralmeshcomponent\\uht\\proceduralmeshcomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\rendering\\skeletalmeshlodimporterdata.h",
@@ -83,7 +83,7 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\math\\genericoctree.inl",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\core\\public\\serialization\\arrayreader.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\streaming\\texturemipdataprovider.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeparser.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeparser.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\animmontage.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\animation\\blendprofile.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\public\\animationruntime.h",
@@ -97,7 +97,7 @@
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\animmontage.generated.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\camera\\cameraactor.h",
             "c:\\program files\\epic games\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameraactor.generated.h",
-            "d:\\class work\\medieval chicken courier\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeasset.generated.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\gltfruntime\\intermediate\\build\\win64\\unrealeditor\\inc\\gltfruntime\\uht\\gltfruntimeasset.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
