@@ -1,15 +1,15 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeurlconvertor.cpp",
+        "Source": "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeurlconvertor.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\intermediate\\build\\win64\\mcc\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "c:\\users\\krist\\github\\medievalchickencourier\\intermediate\\build\\win64\\mcc\\shipping\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\shipping\\readyplayerme\\definitions.readyplayerme.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeurlconvertor.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
-            "c:\\capstonedesigner\\gdnbs\\project\\08\\s0\\teammetallic\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeavatarconfigprocessor.h"
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\shipping\\readyplayerme\\definitions.readyplayerme.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeurlconvertor.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\public\\readyplayermetypes.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\intermediate\\build\\win64\\unrealgame\\inc\\readyplayerme\\uht\\readyplayermetypes.generated.h",
+            "c:\\users\\krist\\github\\medievalchickencourier\\plugins\\readyplayerme\\source\\readyplayerme\\private\\utils\\readyplayermeavatarconfigprocessor.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

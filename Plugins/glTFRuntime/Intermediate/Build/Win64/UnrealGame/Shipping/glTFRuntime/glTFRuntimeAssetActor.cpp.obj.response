@@ -1,6 +1,6 @@
-C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAssetActor.cpp
+C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private\glTFRuntimeAssetActor.cpp
 /I .
-/I C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Private
 /I ..\Intermediate\Build\Win64\UnrealGame\Inc\CoreUObject\UHT
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -108,9 +108,9 @@ C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plug
 /I Runtime\Online
 /I Runtime\Online\HTTP\Public
 /I Runtime\Projects\Public
-/I C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Inc\glTFRuntime\UHT
-/I C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Source
-/I C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Public
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Inc\glTFRuntime\UHT
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source
+/I C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Source\glTFRuntime\Public
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UnrealGame\Inc\ProceduralMeshComponent\UHT
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source
 /I ..\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
@@ -123,12 +123,12 @@ C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plug
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\Definitions.glTFRuntime.h"
-/Yu"C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\glTFRuntimeAssetActor.cpp.obj"
-/sourceDependencies C:\CapstoneDesigner\GDNBS\Project\08\S0\TeamMetallic\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\glTFRuntimeAssetActor.cpp.dep.json
+/FI"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\Definitions.glTFRuntime.h"
+/Yu"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\krist\GitHub\MedievalChickenCourier\Intermediate\Build\Win64\MCC\Shipping\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\glTFRuntimeAssetActor.cpp.obj"
+/sourceDependencies C:\Users\krist\GitHub\MedievalChickenCourier\Plugins\glTFRuntime\Intermediate\Build\Win64\UnrealGame\Shipping\glTFRuntime\glTFRuntimeAssetActor.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
