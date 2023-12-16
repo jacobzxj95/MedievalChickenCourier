@@ -1,6 +1,6 @@
 
 
-Requires rebuild on initial download. Double-click MCC.uproject.
+Requires rebuild on initial launch. Double-click MCC.uproject.
 
 Press yes when "Following modules are missing or built with a different......" window appears.
 
